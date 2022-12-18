@@ -199,3 +199,9 @@
      /system identity
      set name=SGI.Prism
      
+<p><ins>Результаты пингов, проверки локальной связности</ins></p>
+<img src="ping.png">
+<img src="ping2.png">
+<img src="mpls.png">
+<p><b>Вывод:</b></p>
+<p>В ходе лабораторной работы были изучены протоколы OSPF и MPLS, механизмы организации EoMPLS.</p>
