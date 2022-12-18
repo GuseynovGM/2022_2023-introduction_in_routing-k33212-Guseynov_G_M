@@ -203,5 +203,6 @@
 <img src="ping.png">
 <img src="ping2.png">
 <img src="mpls.png">
+<img src="mpls2.png">
 <p><b>Вывод:</b></p>
 <p>В ходе лабораторной работы были изучены протоколы OSPF и MPLS, механизмы организации EoMPLS.</p>
