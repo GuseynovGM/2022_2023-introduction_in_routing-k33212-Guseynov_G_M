@@ -199,6 +199,7 @@
      /system identity
      set name=SGI.Prism
      
+     
 <p><ins>Результаты пингов, проверки локальной связности</ins></p>
 <img src="ping.png">
 <img src="ping2.png">
